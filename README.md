@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ahmed Mamdouh 👋
 
-<!--
-**ahmed-softwar/ahmed-softwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Backend Developer | Node.js
 
-Here are some ideas to get you started:
+I'm a junior backend developer focused on building RESTful APIs using Node.js, Express.js, and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL
+- **Authentication:** JWT, bcrypt
+- **Tools:** Git, GitHub, Postman
+
+### 🚀 Featured Projects
+
+**1. E-Commerce API**
+- RESTful API built with Node.js, Express.js, and MySQL.
+- Includes core e-commerce backend functionality.
+- [View Repository](https://github.com/ahmed-softwar/ecommerce-api)
+
+**2. Ride-Hailing API**
+- Ride management API with JWT authentication and role-based access.
+- Real-time updates using Socket.IO.
+- [View Repository](https://github.com/ahmed-softwar/ride-hailing-api)
+
+### 🎯 Current Goal
+Improving my backend development skills and building practical projects.
+
+### 📫 Contact
+- GitHub: [ahmed-softwar](https://github.com/ahmed-softwar)
